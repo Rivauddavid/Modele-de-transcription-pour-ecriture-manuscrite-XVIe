@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2026-06-18T13:18:24.022806+00:00</Created>
+        <LastChange>2026-07-27T11:19:25.038298+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="FRAC037261_BBR_014_0186.jpg" imageWidth="1592" imageHeight="2294">
+    <TextRegion id="eSc_textblock_b5c08406"  custom="structure {type:text;}">
+      <Coords points="861,2110 940,2110 940,2114 875,2149 855,2134 861,2110"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_41f75fc8"  custom="structure {type:text;}">
+      <Coords points="1456,2074 1459,2093 1440,2109 1435,2095 1456,2074"/>
+    </TextRegion>
+  </Page>
+</PcGts>
